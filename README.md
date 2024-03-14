@@ -1,5 +1,7 @@
 # Start Android App on Boot
 
+The app has to be started once in order to register the receiver.
+
 ## Add receiver to Android manifest
 
 ```xml
